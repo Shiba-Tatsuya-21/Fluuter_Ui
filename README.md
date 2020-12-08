@@ -15,12 +15,12 @@ Page d'Accueil
 
  Page d'inscription des Enseignants 
  
- ![Screenshot](Inscription Enseignant.jpg)
+ ![Screenshot](Enseignant.jpg)
  
  
  Page d'inscription des Etudiants 
  
- ![Screenshot](Inscription Etudiant.jpg)
+ ![Screenshot](Etudiant.jpg)
  
  
   Page de consulatation de l'Emploi Du Temps 
