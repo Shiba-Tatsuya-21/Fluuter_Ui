@@ -1,6 +1,6 @@
 # Fluuter_Ui
 
-Voici a quoi ressemble l'application sur mobile : 
+Voici à quoi ressemble l'application sur mobile : 
 
 
 Page d'Accueil  
