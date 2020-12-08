@@ -1,7 +1,7 @@
 # Fluuter_Ui
  
 
-![Screenshot](Accueil.jpg| width=100)
+![Screenshot](Accueil.jpg){:height="50%" width="50%"}
  
  
  
