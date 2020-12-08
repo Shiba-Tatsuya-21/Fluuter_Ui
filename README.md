@@ -1,7 +1,7 @@
 # Fluuter_Ui
  
 
-![Screenshot](Accueil.jpg)
+![Screenshot](Accueil.jpg| width=100)
  
  
  
