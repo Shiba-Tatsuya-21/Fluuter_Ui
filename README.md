@@ -4,16 +4,17 @@ Voici a quoi ressemble l'application sur mobile :
 
 
 Page d'Accueil  
-<p align="center">
- 
 
-![Screenshot](Accueil.jpg)
+                                                                   ![Screenshot](Accueil.jpg)
  
-  
-</p>
+ 
+ 
+ 
  Page de Connexion 
  
  ![Screenshot](Connexion.jpg)
+
+
 
 
  Page d'inscription des Enseignants 
@@ -21,9 +22,13 @@ Page d'Accueil
  ![Screenshot](Enseignant.jpg)
  
  
+ 
+ 
  Page d'inscription des Etudiants 
  
  ![Screenshot](Etudiant.jpg)
+ 
+ 
  
  
   Page de consulatation de l'Emploi Du Temps 
