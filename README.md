@@ -5,7 +5,7 @@ Voici a quoi ressemble l'application sur mobile :
 
 Page d'Accueil  
 
-                                                                   ![Screenshot](Accueil.jpg)
+![Screenshot](Accueil.jpg)
  
  
  
