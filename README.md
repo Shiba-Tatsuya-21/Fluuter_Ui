@@ -4,10 +4,13 @@ Voici a quoi ressemble l'application sur mobile :
 
 
 Page d'Accueil  
+<p align="center">
+ 
 
 ![Screenshot](Accueil.jpg)
  
- 
+  
+</p>
  Page de Connexion 
  
  ![Screenshot](Connexion.jpg)
