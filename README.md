@@ -25,4 +25,4 @@ Page d'Accueil
  
   Page de consulatation de l'Emploi Du Temps 
  
- ![Screenshot](EDTjpg)
+ ![Screenshot](EDT.jpg)
